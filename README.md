@@ -7,6 +7,13 @@ It transforms this specific hardware into a **professional productivity powerhou
 
 ![Synapse Command Deck UI](https://github.com/user-attachments/assets/fefc481f-1ec7-4899-8a36-b38428621007)
 
+
+<img width="999" height="801" alt="image" src="https://github.com/user-attachments/assets/1f822485-78d2-44c2-aadf-e8d9f7cfa6c6" /> 
+<img width="938" height="817" alt="image" src="https://github.com/user-attachments/assets/455d5908-3f71-48f4-ac4d-432bf02f6fe4" />
+<img width="841" height="275" alt="image" src="https://github.com/user-attachments/assets/06534913-0a40-48dc-8a1f-b9dfbd36cd11" />
+
+
+
 ---
 
 ## ✨ Features for the Macro Pad
