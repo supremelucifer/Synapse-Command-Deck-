@@ -1,4 +1,4 @@
-# Synapse Command Deck
+# Synapse Command Deck (Made for Linux)
 
 **Synapse Command Deck** is **not** a generic remapper.  
 It is a **high-performance, dedicated engine** designed specifically for a **12-button + 2-knob composite macro pad on Linux**.
