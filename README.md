@@ -54,7 +54,7 @@ sudo apt install python3-pip python3-pyqt5 evdev
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone [https://github.com/supremelucifer/synapse-macro-deck.git](https://github.com/supremelucifer/Synapse-Command-Deck-.git)
+git clone https://github.com/supremelucifer/Synapse-Command-Deck-.git
 cd synapse-macro-deck
 ```
 
